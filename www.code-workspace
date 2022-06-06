@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "name": "api",
+            "path": "packages/api"
+        },
+        {
+            "name": "www",
+            "path": "packages/www"
+        }
+    ]
+}
